@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lu6Qfm6/sO2MQ+zbR3LcMjfezMIPtl8W7PyknPTfuyQBFCbalx/xL5WTfMpGNtDut/SvFT/O37RgN2/CMLtMxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\place\\OneDrive\\Documents\\GitHub\\PayCalculator\\PayCalculatorTemplate\\PayCalculatorTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\place\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

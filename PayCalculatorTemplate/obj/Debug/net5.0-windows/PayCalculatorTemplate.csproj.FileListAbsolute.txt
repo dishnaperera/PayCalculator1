@@ -1,0 +1,172 @@
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.exe
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.deps.json
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.json
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.dev.json
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.cache
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.lref
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.g.resources
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfo.cs
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\refint\PayCalculatorTemplate.dll
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.genruntimeconfig.cache
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\ref\PayCalculatorTemplate.dll
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\User\source\repos\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CopyComplete
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.exe
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.deps.json
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.json
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.dev.json
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.AssemblyReference.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.lref
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.g.resources
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfoInputs.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfo.cs
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CoreCompileInputs.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CopyComplete
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\refint\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.genruntimeconfig.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\ref\PayCalculatorTemplate.dll
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.cache
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.lref
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\refint\PayCalculatorTemplate.dll
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.exe
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.deps.json
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.json
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.g.resources
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\PayCalculatorEx\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\ref\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.exe
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.deps.json
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.json
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.dev.json
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.AssemblyReference.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.lref
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.g.resources
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfoInputs.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfo.cs
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CoreCompileInputs.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CopyComplete
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\refint\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.genruntimeconfig.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\C#\PayCalculator_V2\PayCalculatorEx\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\ref\PayCalculatorTemplate.dll
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.exe
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.deps.json
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.json
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.dev.json
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.cache
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.lref
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.g.resources
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfo.cs
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CopyComplete
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\refint\PayCalculatorTemplate.dll
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.genruntimeconfig.cache
+C:\Users\User\Desktop\PayCalculatorTemplate (1)\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\ref\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.exe
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.deps.json
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.json
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.dev.json
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.xml
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.AssemblyReference.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.lref
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.g.resources
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfoInputs.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfo.cs
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CoreCompileInputs.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CopyComplete
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\refint\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.xml
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.genruntimeconfig.cache
+C:\Users\place\OneDrive\Documents\GitHub\Tafe-Coding-Assessments\PayCalculatorTemplate_WITHTEST\PayCalculatorTemplate\PayCalculatorTemplate\obj\Debug\net5.0-windows\ref\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.exe
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.deps.json
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.json
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.runtimeconfig.dev.json
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\bin\Debug\net5.0-windows\PayCalculatorTemplate.xml
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.AssemblyReference.cache
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.cache
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate_MarkupCompile.lref
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.g.resources
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfoInputs.cache
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.AssemblyInfo.cs
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CoreCompileInputs.cache
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.csproj.CopyComplete
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\refint\PayCalculatorTemplate.dll
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.xml
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.pdb
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\PayCalculatorTemplate.genruntimeconfig.cache
+C:\Users\place\OneDrive\Documents\GitHub\PayCalculator\PayCalculatorTemplate\obj\Debug\net5.0-windows\ref\PayCalculatorTemplate.dll

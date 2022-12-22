@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PayCalculatorTemplate</name>
+    </assembly>
+    <members>
+        <member name="T:PayCalculatorTemplate.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:PayCalculatorTemplate.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:PayCalculatorTemplate.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:PayCalculatorTemplate.EmployeeCsvImporter">
+            <summary>
+            CSV import of employee CSV
+            </summary>
+        </member>
+        <member name="T:PayCalculatorTemplate.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="F:PayCalculatorTemplate.MainWindow.paySlip">
+            <summary>
+            Allows for mainwindow to write to payslip. 
+            </summary>
+        </member>
+        <member name="M:PayCalculatorTemplate.MainWindow.#ctor">
+            <summary>
+            MainWindow logic for Mainwindow.xaml
+            </summary>
+        </member>
+        <member name="M:PayCalculatorTemplate.MainWindow.Button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Calculate pay of selected employee with entered hours ammount. Initiates PayCalculator functions
+            </summary>
+        </member>
+        <member name="M:PayCalculatorTemplate.MainWindow.Button_Click_1(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            When button is clicked payslip is generated and saved. 
+            </summary>
+        </member>
+        <member name="M:PayCalculatorTemplate.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:PayCalculatorTemplate.PayCalculator">
+            <summary>
+            Class to set up pay calculator
+            </summary>
+        </member>
+        <member name="T:PayCalculatorTemplate.PaySlip">
+            <summary>
+            PaySlip amounts are recived and stored. 
+            </summary>
+        </member>
+        <member name="T:PayCalculatorTemplate.SavePayslipCSV">
+            <summary>
+            This allows the selected employees payslip data to be saved to a CSV file. 
+            </summary>
+        </member>
+        <member name="M:PayCalculatorTemplate.TaxRateCsvImporter.ImportSomeRecords(System.String)">
+            <summary>
+            Imports Tax records from tax CSV file. 
+            </summary>
+            <param name="taxFileName"> This filename is one of two determined between if the employee is with or without tax threshold. </param>
+            <returns></returns>
+        </member>
+        <member name="M:PayCalculatorTemplate.TaxRateCsvImporter.CreateRecord(System.Int32,System.Int32,System.Double,System.Double)">
+            <summary>
+            Created Record with CSV read data
+            </summary>
+            <param name="fromPay">Starting range of pay for tax calculation amounts </param>
+            <param name="toPay">End range of pay for tax calculation amounts </param>
+            <param name="a"> Tax a calculation amount </param>
+            <param name="b"> Tax b calculation amount</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
